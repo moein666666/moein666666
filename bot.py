@@ -3,8 +3,7 @@ from telebot.types import (Message, InlineKeyboardMarkup,
                            InlineKeyboardButton, WebAppInfo)
 
 
-bot = TeleBot('8078732381:AAGGa4tN4gjBg7VGxpVoBqfkl6oNKAU5TOw')
-
+gfhj
 
 @bot.message_handler(commands=['start'])
 def start(message: Message):
