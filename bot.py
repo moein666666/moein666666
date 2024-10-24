@@ -11,7 +11,7 @@ def start(message: Message):
     markup = InlineKeyboardMarkup([
         [InlineKeyboardButton(text='Ton Spiner',
                               web_app=WebAppInfo(
-                                  'https://0058-212-30-36-174.ngrok-free.app'
+                                  'https://github.com/moein666666/moein666666.git'
                               ))]
     ])
 
